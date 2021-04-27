@@ -8,7 +8,7 @@ body {
 }
   
 table {
-    background-color: white;
+    background-color: Green;
     padding: 1rem 1rem;
     border-radius: 30px;
     border: white 5px solid;
@@ -23,11 +23,11 @@ h1 {
 p {
     font-family: sans-serif;
     text-align: justify;
-    color: blue;
+    color: black;
 }
 
 .formularios {
-    width: 70%; 
+    width: 80%; 
 	margin: 0 auto;
 }
 
@@ -44,7 +44,7 @@ td {
 }
   
 .tituloPrincipal {
-    color: white;
+    color: black;
     text-align: center;
     font-family: Impact ;
 }
@@ -52,7 +52,7 @@ td {
 li {
     font-family: sans-serif;
     text-align: justify;
-    color: blue;
+    color: green;
 }
   
 .titulosTabla{
